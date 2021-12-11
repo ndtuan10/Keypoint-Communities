@@ -91,3 +91,5 @@ python -m openpifpaf.video --source=/content/IMG_0607.mp4 --checkpoint=shufflene
 
 ### **Video demo**
 ![Video 1](https://github.com/ndtuan10/Keypoint-Communities/blob/main/demo/video%20demo/output/2.gif)
+
+![Video 2](https://github.com/ndtuan10/Keypoint-Communities/blob/main/demo/video%20demo/output/3.gif)
